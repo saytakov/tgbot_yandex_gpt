@@ -11,6 +11,12 @@ Python 3.11, SQLite, Redis, Docker, YandexCloud, Aiogram3
 Запуск проекта:
 Запустите сервер redis (пока локально)
 
+Получите токены для бота и для ии в яндексе
+TOKEN_BOT - токен бота
+IDENTKEY - ключ идентификатор
+YAGPT_API_KEY - API ключ YandexCloud
+YAGPT_CATALOG_ID - айди каталога
+
 Установите необходимые библиотеки из requirements.txt в окружение
 pip install -r requirements.txt
 
